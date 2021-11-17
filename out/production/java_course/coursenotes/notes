@@ -1,0 +1,45 @@
+                                                    Lesson 1: programs and algorithms
+A computer is a machine capable of processing data.It can only understand machine language.
+
+A program/software is a set of instructions that a computer follows to perform a task. Initially written in zeros and ones; created more human friendly languages
+to write in like Java. These languages are translated behind the scenes into computer language and then interpreted by
+the computer's hardware.
+
+algorithm- a high level step by step guide to complete a task; helps you solve programs; can implement it using a programming language
+Ex: Calculate an employee's gross pay
+1.Get numbers of hours worked
+2.GEt hourly pay rate
+3. Multiply hours and pay rate
+4.Display results
+
+
+Purpose of programs is to provide instructions to a computer to enable it to perform tasks. Programs are implementations of algorithms.
+
+                                                   Lesson 2: Java Fundamentals
+
+Code is another word for programs.
+
+Source code is another word used for programs.
+
+A package in java is a folder or container that holds java files. Packages should be all lowercase.
+
+Packages contain Java files, also known as classes.
+
+Java classes, by convention start with an uppercase letter for each word.
+
+If your java file is within a package, then the first line must declare the package.
+
+The words in orange are reserved words in java. Can't be used to name things.
+
+Everything between the two braces will belong to that particular java class.
+
+In order to run code from within a class, it must be inside a Method. The default method in java is the" main" one.
+ When you execute the class, it will first look for the main method within the class. It is the starting point and it must be
+ defined as "public static void main(String arg[]){}"
+
+Keep in mind who you are programming for.
+
+you can add numbers and special characters except hyphens and alike at the end of variable names not the front
+
+
+
